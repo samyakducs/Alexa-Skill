@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "Rubiks cube learn",
+            "invocationName": "rubiks cube learn",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
